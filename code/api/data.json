@@ -1,3 +1,41 @@
 {
+    "cardlist" : [
+
+    {
+         "imgUrl":"img/moodle.png",
+         "title":"moodle",
+          "desc":"Moodle della scuola, con il materiale dei docenti e la consegna dei compiti in classe online",
+          "buttonurl":"moodle"
+          
+    },
+    {
+        "imgurl":"img/github.png",
+        "title":"GitHub",
+        "desc":"Pagina con i progetti della scuola, sul sito ufficiale di github.com",
+        "buttonurl":"GitHub"
+    },
+    {                                           
+
+
+"imgurl":"img/cisco.png",
+"title":"Sim Desktop",
+"desc":"Simulatore di assemblaggio computer desktop, creato da CISCO",
+"buttonurl":"simlaptop/Index.html"
+
+    },
+    {
+
+        "imgurl":"img/cisco.png",
+         "title":"Sim Desktop",
+        "desc":"Simulatore di assemblaggio computer desktop, creato da CISCO",
+        "buttonurl":"simlaptop/Index.html"
+    }
+    ]
+
+    }
+
+
+
+
+
     
-}
